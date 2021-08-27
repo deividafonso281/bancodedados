@@ -4,7 +4,7 @@
 
 ## Tarefa 1 sobre APIs de acesso
 
- [Resolução](https://github.com/deividafonso281/bancodedados/lab01/notebook)
+ [Resolução](https://github.com/deividafonso281/bancodedados/blob/main/lab01/notebook/lab01-api.ipynb)
 
 ## Tarefa 2 sobre Engenharia Reversa
 
