@@ -4,10 +4,10 @@
 
 | campo | valor |
 |------------|-----------------|
-| referência |                 |
+| referência | "Cardoso, F., Malska, J., Ramiro, P., Lucca, G., Borges, E. N., Mattos, V. d., and Berri, R. (2021). Bovdb: The data set of stock quotes for machine learning on all companies from b3 between 1995 and 2020. In Brazilian Symposium on Databases - Dataset Showcase". |
 | link       | [PDF do artigo](https://drive.google.com/file/d/1-x_TZMxAeGzfHS7Oq-h5cc1uj1zkWdHy/view) |
 | dataset | [Link para o Dataset](https://github.com/Ginfofinance/BovDBrepository) |
-| formato |                                                                        |
+| formato | SQL                                                                    |
 
 ## Resumo
 
